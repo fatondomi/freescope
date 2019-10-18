@@ -1,0 +1,10 @@
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\freeScope\freeScope\bin\Release\freeScope.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\freeScope\freeScope\bin\Release\freeScope.exe
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\freeScope\freeScope\bin\Release\freeScope.pdb
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\freeScope\freeScope\obj\Release\freeScope.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\freeScope\freeScope\obj\Release\freeScope.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\freeScope\freeScope\obj\Release\freeScope.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\freeScope\freeScope\obj\Release\freeScope.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\freeScope\freeScope\obj\Release\freeScope.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\freeScope\freeScope\obj\Release\freeScope.exe
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\freeScope\freeScope\obj\Release\freeScope.pdb
